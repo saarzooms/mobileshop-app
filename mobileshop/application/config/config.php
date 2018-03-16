@@ -23,8 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/mobileshop';
-//$config['base_url'] = 'http://allysoftsolutions.com/mobileshop';
+$config['base_url'] = 'http://https://mobileshop.herokuapp.com/mobileshop';
 
 /*
 |--------------------------------------------------------------------------
